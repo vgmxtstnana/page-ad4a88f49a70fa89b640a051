@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "de7318e27b4e580ca2a903e4",
+  "owner": "vgmxtstnana",
+  "repo": "page-ad4a88f49a70fa89b640a051",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ad4a88f49a70fa89b640a051",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b725cddbc98d39d6451b7bfa1065af4ffb53172b49edf174dae7c02877794ceb",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id 提供稳定VPN梯子服务，极速流量解锁流媒体，支持机场订阅与客户端下载，多种套餐任选官网直达。",
+          "AI_DESCRIPTION": "小火箭id 提供稳定VPN梯子服务，极速流量解锁流媒体，支持机场订阅与客户端下载，多种套餐任选官网直达。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;padding:0;font-family:system-ui,-apple-system,sans-serif;background:#001f3f;color:#00d4ff;line-height:1.6}header{background:#001f3f;padding:2rem 1rem;text-align:center}h1{font-size:3rem;margin:0 0 1rem;color:#fff}main{max-width:1100px;margin:0 auto;padding:2rem 1rem}.hero{background:#001f3f;padding:3rem 1rem;text-align:center;border-radius:12px;margin-bottom:2rem}.hero h2{font-size:2.5rem;color:#fff;margin-bottom:1rem}.plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin:3rem 0}.plan{background:#002244;border:2px solid #00d4ff;border-radius:12px;padding:2rem;text-align:center;transition:all .3s}.plan.featured{border-color:#00ff88;background:#001a2e}.plan.featured h3{color:#00ff88}.plan h3{font-size:1.5rem;margin:1rem 0;color:#fff}.plan .price{font-size:2rem;font-weight:700;color:#00ff88;margin:1rem 0}.plan ul{list-style:none;padding:0;margin:1.5rem 0}.plan li{margin:0.75rem 0;color:#00d4ff}.faq{margin:3rem 0}.faq details{background:#002244;margin-bottom:1rem;border-radius:8px;overflow:hidden}.faq summary{font-weight:700;padding:1rem 1.5rem;cursor:pointer;background:#001f3f;color:#fff;display:flex;justify-content:space-between;align-items:center}.faq .answer{padding:1.5rem;color:#00d4ff}.btn{background:#00d4ff;color:#001f3f;padding:1rem 2rem;border:none;border-radius:8px;font-weight:700;cursor:pointer;margin:2rem 0;transition:all .3s}.btn:hover{transform:scale(1.05);background:#00ff88}.footer{background:#001f3f;text-align:center;padding:2rem;color:#00d4ff;font-size:0.9rem}</style><main><h1>小火箭id</h1><section class=\"hero\"><h2>小火箭id VPN梯子</h2><p>提供稳定高速网络加速，解锁流媒体与游戏加速，机场订阅与客户端一站式下载。</p><a href=\"#plans\" class=\"btn\">立即查看套餐</a></section><section><h2>品牌简介</h2><p>小火箭id 是一款专业级VPN加速器，提供IPLC专线与普通线路节点池，帮助用户突破地域限制，享受稳定流畅的网络体验。核心优势包括海量流量套餐、设备并发支持以及7x24优先工单服务。</p></section><section><h2>使用场景</h2><ul><li>解锁Netflix、Disney+、YouTube等流媒体平台</li><li>加速游戏下载与在线竞技</li><li>远程办公与跨境数据同步</li><li>科学上网与节点选择灵活</li><li>企业级路由定制</li></ul></section><section id=\"plans\"><h2>套餐计划</h2><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"price\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"price\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"price\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section><h2>操作说明</h2><ol><li>访问官网选择对应套餐并完成支付</li><li>通过邮箱或后台获取订阅链接或客户端下载</li><li>下载安装对应客户端或订阅器</li><li>输入凭证连接节点，完成网络加速</li></ol></section><section class=\"faq\"><h2>常见问题</h2><details><summary>小火箭id 支持哪些设备？</summary><div class=\"answer\">支持Windows、macOS、Android、iOS及路由器等多种设备。</div></details><details><summary>如何获得客户端下载？</summary><div class=\"answer\">登录官网后台或订阅页面即可下载最新版客户端。</div></details><details><summary>流量是否支持多台设备？</summary><div class=\"answer\">基础版支持3台同时在线，旗舰版支持5台，团队版支持20台。</div></details><details><summary>能解锁Netflix吗？</summary><div class=\"answer\">旗舰版以上套餐均提供全节点原生流媒体解锁。</div></details><details><summary>支付方式有哪些？</summary><div class=\"answer\">支持支付宝、微信支付及银行卡等多种主流方式。</div></details><details><summary>如何申请技术支持？</summary><div class=\"answer\">7x24优先工单支持，登录后台提交工单即可。</div></details></section><a href=\"#\" class=\"btn\">立即订阅</a><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"footer\"><p>© 小火箭id 官网 | 规范服务 | 隐私保护</p></footer>",
+          "hash": "6f5da61cde4ef562e66c43c0688200882e96a52c3cb115f7829a49321d0f5dc5",
+          "seo": {
+            "title": "小火箭id - VPN梯子 机场订阅 高速客户端下载",
+            "keywords": "小火箭id,VPN,机场,加速器,客户端下载,网络加速",
+            "description": "小火箭id 提供稳定VPN梯子服务，极速流量解锁流媒体，支持机场订阅与客户端下载，多种套餐任选官网直达。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "634172.cn",
+    "host": "p-b63225b285.634172.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b8bea354f6a760c18e337ecb43211aaf4c23abfb8b6aa754990cb9f6bb8914cd",
+    "sitemap.xml": "98776f8e5ba39a8ead949767b05a9e5f8270b2d7087f29525b1d95fdcee947ee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b0ce6cd62845d6baf3f07cae68bc2ba4a3ca6f9c0e0030d0e2e8a35660cc871a",
+    "robots.txt": "2965558f2a812ebd41dfab9bad40663d89d6a38277bbebfa9ebc80d5858457cc",
+    "f6f5d6c393532a99997e8ee547b31c04.txt": "ffdb93c98131115f5cf6e1f5a2af69efaa2971190c849ebce0769b0641390d6a"
+  },
+  "revision": "be8da2d7757289a9dd09b1a66843be72104324abdb5d352e560e9801657b64a1"
+}
